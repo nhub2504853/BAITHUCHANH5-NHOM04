@@ -24,7 +24,7 @@ Repository này lưu trữ các kết quả của Bài thực hành 05. Mục ti
 | `Video.mp4` | Video ngắn 30s giới thiệu lợi ích công nghệ số | 2.2 |
 | `index.html` | Trang web đơn giản dùng để hiển thị Infographic và Video | 3.1 |
 
- [Chèn Link Google Drive chứa video tại đây]
+ [https://drive.google.com/file/d/1paWwmw_1APlu5n9fUX4qhgo_qkPmVOBZ/view?usp=sharing]
 
 ## 🤖 Trích dẫn nguồn AI và Tài nguyên
 Dự án này có sử dụng các công cụ AI và tài nguyên miễn phí bản quyền nhằm mục đích học tập, tuân thủ nguyên tắc minh bạch:
